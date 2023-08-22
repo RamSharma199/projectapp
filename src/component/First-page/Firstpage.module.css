@@ -1,0 +1,26 @@
+.main{
+width: 1250px;
+height: 500px;
+
+}
+
+.maincontainor{
+display: flex;
+margin-top: 50px;
+align-items: center;
+justify-content: center;
+}
+
+
+
+
+
+.heanding{
+    color: green;
+}
+
+#standard-basic{
+font-size: 14px;
+
+}
+

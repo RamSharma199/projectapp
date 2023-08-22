@@ -1,0 +1,54 @@
+
+
+
+.wrapper{
+  margin: 0px;
+  width: 50%;
+  margin-top: 20px;
+
+  padding: 10px;
+background-color: #eee;
+
+
+}
+
+.listIcon{
+margin-right: 10px;
+font-size: 14px;
+font-weight: 600;
+color: teal;
+}
+
+.toggleMenu{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 8px;
+  border: none;
+border-radius: 5px;
+  background-color: black;
+  
+}
+.btnIcon{
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+}
+ul li{
+  list-style: none;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+
+.my-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
